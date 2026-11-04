@@ -1,5 +1,6 @@
 # oh-cred
 
+![Architecture](https://img.shields.io/badge/architecture-amd64%2C%20arm64-green)
 ![License](https://img.shields.io/github/license/open-horizon-services/utility-credential-wrapper)
 ![Contributors](https://img.shields.io/github/contributors/open-horizon-services/utility-credential-wrapper)
 
